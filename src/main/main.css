@@ -1,0 +1,6 @@
+body{background-color:#E3EFFC}
+.allsayfa a {color: black;float: left;padding: 8px 16px;}
+b{color:red; font-size:15px}
+h4{color:blue ; }
+.allsayfa a.active {background-color: #4CAF50;color: white;}
+.allsayfa a:hover:not(.active) {background-color:#5398E6;}
